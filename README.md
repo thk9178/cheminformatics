@@ -10,4 +10,4 @@
  * 많은 SMILES 데이터 중 관심있는 substructure 를 가지는 분자만 filtering 하는 방법
 
 ### 03_highlight_substructure.ipynb (RDKit)
- * 분자 구조 이미지에 강조할 substructure 를 표시, 이미지로 저장하는 
+ * 분자 구조 이미지에 강조할 substructure 를 표시, 이미지로 저장하는 방법
