@@ -11,3 +11,8 @@
 
 ### 03_highlight_substructure.ipynb (RDKit)
  * 분자 구조 이미지에 강조할 substructure 를 표시, 이미지로 저장하는 방법
+
+### 04_Oligomer_SMILES_to_3D.ipynb (RDKit)
+ * 3D 고분자 구조를 생성하기 위해, 우선적으로 oligomer SMILES 에서 시작하여
+ SDF 파일 형식으로 UFF 로 최적화된 3D 고분자 구조들을 생성.
+ * 04_PMDA-PDA 는 생성된 3D 고분자 구조의 예시.
